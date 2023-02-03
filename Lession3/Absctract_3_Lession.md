@@ -26,7 +26,7 @@ cd (change directory) - команда, позволяющая поменять 
 ## Установка связи.
 
 Для того чтобы установить связь между файлами локального компьютера и GitHub (облако). Необходимо изначально зайти на сайт [GitHub](https://github.com/)
-И создать там новый репозиторий. ![Новый Репозиторий](Links)
+И создать там новый репозиторий. ![Новый Репозиторий](Links.png)
  * git remote add origin https://github.com/DarkMorfius/lession3.git
 * git branch -M main
 * git push -u origin main
